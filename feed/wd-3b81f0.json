@@ -1,14 +1,14 @@
 {
-    "generated_at": "2026-09-13T16:00:01+00:00",
-    "generated_at_local": "2026-09-13 18:00",
+    "generated_at": "2026-09-13T17:00:01+00:00",
+    "generated_at_local": "2026-09-13 19:00",
     "window_hours": 168,
     "subreddits_checked": 18,
     "subreddits_reached": 18,
     "checked_this_run": 7,
-    "next_start": "geldzaken",
+    "next_start": "ledgerwallet",
     "pace_seconds": 146,
-    "new_this_run": 0,
-    "match_count": 21,
+    "new_this_run": 1,
+    "match_count": 22,
     "strong_count": 4,
     "theft_count": 3,
     "extra_sources": [
@@ -26,10 +26,10 @@
                 "comment_url": "https://www.reddit.com/r/Metamask/comments/1w6dqlc/help_please_database_cannot_be_accessed/p8x6ad0/",
                 "thread_url": "https://www.reddit.com/r/Metamask/comments/1w6dqlc/",
                 "commented_at": "2026-09-10 09:56 UTC",
-                "age_hours": 78.1,
+                "age_hours": 79.1,
                 "activity_after": 0,
                 "thread_size": 4,
-                "checked_at": "2026-09-13 16:02 UTC"
+                "checked_at": "2026-09-13 17:02 UTC"
             },
             {
                 "title": "/u/Fab_Crypto_Recovers on Need help with old wallet issues",
@@ -37,32 +37,32 @@
                 "comment_url": "https://www.reddit.com/r/Electrum/comments/1w9mgwk/need_help_with_old_wallet_issues/p8wvhhj/",
                 "thread_url": "https://www.reddit.com/r/Electrum/comments/1w9mgwk/",
                 "commented_at": "2026-09-10 08:25 UTC",
-                "age_hours": 79.6,
+                "age_hours": 80.6,
                 "activity_after": 0,
                 "thread_size": 16,
-                "checked_at": "2026-09-13 16:04 UTC"
+                "checked_at": "2026-09-13 17:04 UTC"
             }
         ]
     },
     "source_status": {
-        "CryptoHelp": "ok - 1 matches (46 verse posts bekeken) - 1.7u geleden",
-        "BitcoinBeginners": "ok - 1 matches (10 verse posts bekeken) - 1.6u geleden",
-        "Bitcoin": "ok - 4 matches (100 verse posts bekeken) - 0.9u geleden",
-        "btc": "geen match binnen venster (57 verse posts bekeken) - 0.8u geleden",
-        "MetaMask": "geen match binnen venster (3 verse posts bekeken) - 0.8u geleden",
-        "ledgerwallet": "ok - 1 matches (10 verse posts bekeken) - 0.8u geleden",
-        "XRP": "geen match binnen venster (9 verse posts bekeken) - 0.7u geleden",
-        "CryptoCurrencyClassic": "geen match binnen venster (100 verse posts bekeken) - 0.7u geleden",
-        "CryptoCurrency": "geen match binnen venster (100 verse posts bekeken) - 0.6u geleden",
-        "Monero": "geen match binnen venster (19 verse posts bekeken) - -0.1u geleden",
-        "Electrum": "ok - 1 matches (2 verse posts bekeken) - -0.2u geleden",
-        "Trezor": "ok - 1 matches (33 verse posts bekeken) - -0.2u geleden",
-        "Tangem": "geen match binnen venster (10 verse posts bekeken) - -0.2u geleden",
-        "solana": "ok - 1 matches (81 verse posts bekeken) - -0.3u geleden",
-        "ethereum": "geen match binnen venster (23 verse posts bekeken) - -0.3u geleden",
-        "cro": "geen match binnen venster (10 verse posts bekeken) - -0.4u geleden",
-        "geldzaken": "geen match binnen venster (28 verse posts bekeken) - 1.8u geleden",
-        "BitcoinDE": "geen match binnen venster (4 verse posts bekeken) - 1.7u geleden",
+        "CryptoHelp": "ok - 1 matches (47 verse posts bekeken) - -0.2u geleden",
+        "BitcoinBeginners": "ok - 1 matches (10 verse posts bekeken) - -0.2u geleden",
+        "Bitcoin": "ok - 5 matches (100 verse posts bekeken) - -0.3u geleden",
+        "btc": "geen match binnen venster (56 verse posts bekeken) - -0.3u geleden",
+        "MetaMask": "geen match binnen venster (3 verse posts bekeken) - -0.4u geleden",
+        "ledgerwallet": "ok - 1 matches (10 verse posts bekeken) - 1.8u geleden",
+        "XRP": "geen match binnen venster (9 verse posts bekeken) - 1.7u geleden",
+        "CryptoCurrencyClassic": "geen match binnen venster (100 verse posts bekeken) - 1.7u geleden",
+        "CryptoCurrency": "geen match binnen venster (100 verse posts bekeken) - 1.6u geleden",
+        "Monero": "geen match binnen venster (19 verse posts bekeken) - 0.9u geleden",
+        "Electrum": "ok - 1 matches (2 verse posts bekeken) - 0.8u geleden",
+        "Trezor": "ok - 1 matches (33 verse posts bekeken) - 0.8u geleden",
+        "Tangem": "geen match binnen venster (10 verse posts bekeken) - 0.8u geleden",
+        "solana": "ok - 1 matches (81 verse posts bekeken) - 0.7u geleden",
+        "ethereum": "geen match binnen venster (23 verse posts bekeken) - 0.7u geleden",
+        "cro": "geen match binnen venster (10 verse posts bekeken) - 0.6u geleden",
+        "geldzaken": "geen match binnen venster (27 verse posts bekeken) - -0.1u geleden",
+        "BitcoinDE": "geen match binnen venster (4 verse posts bekeken) - -0.2u geleden",
         "bitcoin.stackexchange": "ok - 3 matches (3 verse posts bekeken) - -0.4u geleden"
     },
     "items": [
@@ -75,7 +75,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-11 09:44 UTC",
-            "age_hours": 54.3,
+            "age_hours": 55.3,
             "age_days": 2.3
         },
         {
@@ -87,8 +87,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-10 12:43 UTC",
-            "age_hours": 75.3,
-            "age_days": 3.1
+            "age_hours": 76.3,
+            "age_days": 3.2
         },
         {
             "title": "Seeker Id issue - cannot recover",
@@ -99,7 +99,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-09 05:05 UTC",
-            "age_hours": 106.9,
+            "age_hours": 107.9,
             "age_days": 4.5
         },
         {
@@ -111,8 +111,20 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-08 16:17 UTC",
-            "age_hours": 119.7,
+            "age_hours": 120.7,
             "age_days": 5
+        },
+        {
+            "title": "I’m building a metal seed backup. What would make it worth choosing over DIY?",
+            "url": "https://www.reddit.com/r/Bitcoin/comments/1wfacng/im_building_a_metal_seed_backup_what_would_make/",
+            "source": "reddit r/Bitcoin",
+            "region": "unknown",
+            "strong": false,
+            "scope": "lost_access",
+            "scope_reason": "",
+            "last_activity": "2026-09-13 15:13 UTC",
+            "age_hours": 1.8,
+            "age_days": 0.1
         },
         {
             "title": "I built a small BIP-39 checksum device for manually generated entropy",
@@ -123,7 +135,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-12 16:57 UTC",
-            "age_hours": 23,
+            "age_hours": 24,
             "age_days": 1
         },
         {
@@ -135,7 +147,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-12 14:01 UTC",
-            "age_hours": 26,
+            "age_hours": 27,
             "age_days": 1.1
         },
         {
@@ -147,8 +159,8 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (hacked)",
             "last_activity": "2026-09-12 05:42 UTC",
-            "age_hours": 34.3,
-            "age_days": 1.4
+            "age_hours": 35.3,
+            "age_days": 1.5
         },
         {
             "title": "0.150509 BTC was transferred from my Trust Wallet without my authorization — I need technical help understanding what happened",
@@ -159,7 +171,7 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (compromised)",
             "last_activity": "2026-09-11 13:39 UTC",
-            "age_hours": 50.3,
+            "age_hours": 51.3,
             "age_days": 2.1
         },
         {
@@ -171,7 +183,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-11 09:21 UTC",
-            "age_hours": 54.6,
+            "age_hours": 55.6,
             "age_days": 2.3
         },
         {
@@ -183,8 +195,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-10 19:52 UTC",
-            "age_hours": 68.1,
-            "age_days": 2.8
+            "age_hours": 69.1,
+            "age_days": 2.9
         },
         {
             "title": "Blockchain exchange to bank",
@@ -195,7 +207,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-10 16:37 UTC",
-            "age_hours": 71.4,
+            "age_hours": 72.4,
             "age_days": 3
         },
         {
@@ -207,7 +219,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-10 14:22 UTC",
-            "age_hours": 73.6,
+            "age_hours": 74.6,
             "age_days": 3.1
         },
         {
@@ -219,8 +231,8 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (phishing)",
             "last_activity": "2026-09-09 22:31 UTC",
-            "age_hours": 89.5,
-            "age_days": 3.7
+            "age_hours": 90.5,
+            "age_days": 3.8
         },
         {
             "title": "Problem after updating Trezor",
@@ -231,7 +243,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-09 09:51 UTC",
-            "age_hours": 102.1,
+            "age_hours": 103.1,
             "age_days": 4.3
         },
         {
@@ -243,7 +255,7 @@
             "scope": "lost_access",
             "scope_reason": "achteraf beoordeeld, alleen op titel, geen diefstalwoord gevonden",
             "last_activity": "2026-09-08 19:10 UTC",
-            "age_hours": 116.8,
+            "age_hours": 117.8,
             "age_days": 4.9
         },
         {
@@ -255,7 +267,7 @@
             "scope": "lost_access",
             "scope_reason": "achteraf beoordeeld, alleen op titel, geen diefstalwoord gevonden",
             "last_activity": "2026-09-08 19:10 UTC",
-            "age_hours": 116.8,
+            "age_hours": 117.8,
             "age_days": 4.9
         },
         {
@@ -267,8 +279,8 @@
             "scope": "lost_access",
             "scope_reason": "achteraf beoordeeld, alleen op titel, geen diefstalwoord gevonden",
             "last_activity": "2026-09-08 12:47 UTC",
-            "age_hours": 123.2,
-            "age_days": 5.1
+            "age_hours": 124.2,
+            "age_days": 5.2
         },
         {
             "title": "Your seed backup isn't a backup until you've restored from it once",
@@ -279,8 +291,8 @@
             "scope": "lost_access",
             "scope_reason": "achteraf beoordeeld, alleen op titel, geen diefstalwoord gevonden",
             "last_activity": "2026-09-08 01:00 UTC",
-            "age_hours": 135,
-            "age_days": 5.6
+            "age_hours": 136,
+            "age_days": 5.7
         },
         {
             "title": "Your hardware wallet won’t last forever.",
@@ -291,7 +303,7 @@
             "scope": "lost_access",
             "scope_reason": "achteraf beoordeeld, alleen op titel, geen diefstalwoord gevonden",
             "last_activity": "2026-09-07 11:33 UTC",
-            "age_hours": 148.4,
+            "age_hours": 149.4,
             "age_days": 6.2
         },
         {
@@ -303,8 +315,8 @@
             "scope": "lost_access",
             "scope_reason": "achteraf beoordeeld, alleen op titel, geen diefstalwoord gevonden",
             "last_activity": "2026-09-07 08:35 UTC",
-            "age_hours": 151.4,
-            "age_days": 6.3
+            "age_hours": 152.4,
+            "age_days": 6.4
         },
         {
             "title": "Hardware Cold Wallet Q’s",
@@ -315,7 +327,7 @@
             "scope": "lost_access",
             "scope_reason": "achteraf beoordeeld, alleen op titel, geen diefstalwoord gevonden",
             "last_activity": "2026-09-07 02:17 UTC",
-            "age_hours": 157.7,
+            "age_hours": 158.7,
             "age_days": 6.6
         }
     ]
