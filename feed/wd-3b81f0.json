@@ -1,12 +1,12 @@
 {
-    "generated_at": "2026-09-16T00:00:01+00:00",
-    "generated_at_local": "2026-09-16 02:00",
+    "generated_at": "2026-09-16T01:00:01+00:00",
+    "generated_at_local": "2026-09-16 03:00",
     "window_hours": 168,
     "subreddits_checked": 18,
     "subreddits_reached": 18,
-    "checked_this_run": 7,
-    "next_start": "cro",
-    "pace_seconds": 146,
+    "checked_this_run": 8,
+    "next_start": "ledgerwallet",
+    "pace_seconds": 142,
     "new_this_run": 0,
     "match_count": 19,
     "strong_count": 5,
@@ -16,7 +16,7 @@
     ],
     "engagement": {
         "user": "Fab_crypto_recovers",
-        "status": "2 reacties gevolgd, 0 nieuw",
+        "status": "niet opgehaald: HTTP 0",
         "tracked": 2,
         "note": "Reddit geeft geen up- of downvotes en geen views op reacties. \"activity_after\" is het aantal berichten in de draad dat nieuwer is dan jouw reactie, niet noodzakelijk antwoorden aan jou.",
         "comments": [
@@ -26,10 +26,10 @@
                 "comment_url": "https://www.reddit.com/r/Metamask/comments/1w6dqlc/help_please_database_cannot_be_accessed/p8x6ad0/",
                 "thread_url": "https://www.reddit.com/r/Metamask/comments/1w6dqlc/",
                 "commented_at": "2026-09-10 09:56 UTC",
-                "age_hours": 134.1,
+                "age_hours": 135.1,
                 "activity_after": 0,
                 "thread_size": 4,
-                "checked_at": "2026-09-16 00:02 UTC"
+                "checked_at": "2026-09-16 01:02 UTC"
             },
             {
                 "title": "/u/Fab_Crypto_Recovers on Need help with old wallet issues",
@@ -37,32 +37,32 @@
                 "comment_url": "https://www.reddit.com/r/Electrum/comments/1w9mgwk/need_help_with_old_wallet_issues/p8wvhhj/",
                 "thread_url": "https://www.reddit.com/r/Electrum/comments/1w9mgwk/",
                 "commented_at": "2026-09-10 08:25 UTC",
-                "age_hours": 135.6,
+                "age_hours": 136.6,
                 "activity_after": 0,
                 "thread_size": 16,
-                "checked_at": "2026-09-16 00:04 UTC"
+                "checked_at": "2026-09-16 01:04 UTC"
             }
         ]
     },
     "source_status": {
-        "CryptoHelp": "geen match binnen venster (46 verse posts bekeken) - 1.7u geleden",
-        "BitcoinBeginners": "ok - 1 matches (8 verse posts bekeken) - 1.6u geleden",
-        "Bitcoin": "ok - 4 matches (100 verse posts bekeken) - 0.9u geleden",
-        "btc": "geen match binnen venster (71 verse posts bekeken) - 0.8u geleden",
-        "MetaMask": "geen match binnen venster (3 verse posts bekeken) - 0.8u geleden",
-        "ledgerwallet": "ok - 1 matches (11 verse posts bekeken) - 0.7u geleden",
-        "XRP": "geen match binnen venster (14 verse posts bekeken) - 0.7u geleden",
-        "CryptoCurrencyClassic": "geen match binnen venster (100 verse posts bekeken) - 0.7u geleden",
-        "CryptoCurrency": "geen match binnen venster (100 verse posts bekeken) - -0.1u geleden",
-        "Monero": "geen match binnen venster (20 verse posts bekeken) - -0.2u geleden",
-        "Electrum": "geen match binnen venster (1 verse posts bekeken) - -0.2u geleden",
-        "Trezor": "ok - 2 matches (32 verse posts bekeken) - -0.2u geleden",
-        "Tangem": "ok - 1 matches (10 verse posts bekeken) - -0.3u geleden",
-        "solana": "ok - 1 matches (81 verse posts bekeken) - -0.3u geleden",
-        "ethereum": "geen match binnen venster (18 verse posts bekeken) - -0.4u geleden",
-        "cro": "geen match binnen venster (6 verse posts bekeken) - 1.8u geleden",
-        "geldzaken": "geen match binnen venster (23 verse posts bekeken) - 1.8u geleden",
-        "BitcoinDE": "geen match binnen venster (2 verse posts bekeken) - 1.7u geleden",
+        "CryptoHelp": "geen match binnen venster (42 verse posts bekeken) - -0.2u geleden",
+        "BitcoinBeginners": "ok - 1 matches (9 verse posts bekeken) - -0.2u geleden",
+        "Bitcoin": "ok - 4 matches (100 verse posts bekeken) - -0.3u geleden",
+        "btc": "geen match binnen venster (71 verse posts bekeken) - -0.3u geleden",
+        "MetaMask": "geen match binnen venster (3 verse posts bekeken) - -0.4u geleden",
+        "ledgerwallet": "ok - 1 matches (11 verse posts bekeken) - 1.7u geleden",
+        "XRP": "geen match binnen venster (14 verse posts bekeken) - 1.7u geleden",
+        "CryptoCurrencyClassic": "geen match binnen venster (100 verse posts bekeken) - 1.7u geleden",
+        "CryptoCurrency": "geen match binnen venster (100 verse posts bekeken) - 0.9u geleden",
+        "Monero": "geen match binnen venster (20 verse posts bekeken) - 0.8u geleden",
+        "Electrum": "geen match binnen venster (1 verse posts bekeken) - 0.8u geleden",
+        "Trezor": "ok - 2 matches (32 verse posts bekeken) - 0.8u geleden",
+        "Tangem": "ok - 1 matches (10 verse posts bekeken) - 0.7u geleden",
+        "solana": "ok - 1 matches (81 verse posts bekeken) - 0.7u geleden",
+        "ethereum": "geen match binnen venster (18 verse posts bekeken) - 0.6u geleden",
+        "cro": "geen match binnen venster (7 verse posts bekeken) - -0.1u geleden",
+        "geldzaken": "geen match binnen venster (24 verse posts bekeken) - -0.1u geleden",
+        "BitcoinDE": "geen match binnen venster (2 verse posts bekeken) - -0.2u geleden",
         "bitcoin.stackexchange": "ok - 3 matches (3 verse posts bekeken) - -0.4u geleden"
     },
     "items": [
@@ -75,8 +75,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-15 13:31 UTC",
-            "age_hours": 10.5,
-            "age_days": 0.4
+            "age_hours": 11.5,
+            "age_days": 0.5
         },
         {
             "title": "I am trying to create an offline seed phrase tangem wallet but it keeps failing. what am I doing wrong?",
@@ -87,7 +87,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-15 04:57 UTC",
-            "age_hours": 19,
+            "age_hours": 20,
             "age_days": 0.8
         },
         {
@@ -99,7 +99,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-11 09:44 UTC",
-            "age_hours": 110.3,
+            "age_hours": 111.3,
             "age_days": 4.6
         },
         {
@@ -111,7 +111,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-10 12:43 UTC",
-            "age_hours": 131.3,
+            "age_hours": 132.3,
             "age_days": 5.5
         },
         {
@@ -123,7 +123,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-09 05:05 UTC",
-            "age_hours": 162.9,
+            "age_hours": 163.9,
             "age_days": 6.8
         },
         {
@@ -135,8 +135,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-15 01:29 UTC",
-            "age_hours": 22.5,
-            "age_days": 0.9
+            "age_hours": 23.5,
+            "age_days": 1
         },
         {
             "title": "Bitcoin Core HELP",
@@ -147,8 +147,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-14 13:13 UTC",
-            "age_hours": 34.8,
-            "age_days": 1.4
+            "age_hours": 35.8,
+            "age_days": 1.5
         },
         {
             "title": "Update: I think Bitcoin finally clicked 😭",
@@ -159,7 +159,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-14 00:09 UTC",
-            "age_hours": 47.8,
+            "age_hours": 48.8,
             "age_days": 2
         },
         {
@@ -171,7 +171,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-13 15:13 UTC",
-            "age_hours": 56.8,
+            "age_hours": 57.8,
             "age_days": 2.4
         },
         {
@@ -183,7 +183,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-12 16:57 UTC",
-            "age_hours": 79,
+            "age_hours": 80,
             "age_days": 3.3
         },
         {
@@ -195,8 +195,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-12 14:01 UTC",
-            "age_hours": 82,
-            "age_days": 3.4
+            "age_hours": 83,
+            "age_days": 3.5
         },
         {
             "title": "Honestly starting to hate cold storage... Anyone else moving away from self-custody?",
@@ -207,7 +207,7 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (hacked)",
             "last_activity": "2026-09-12 05:42 UTC",
-            "age_hours": 90.3,
+            "age_hours": 91.3,
             "age_days": 3.8
         },
         {
@@ -219,8 +219,8 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (compromised)",
             "last_activity": "2026-09-11 13:39 UTC",
-            "age_hours": 106.3,
-            "age_days": 4.4
+            "age_hours": 107.3,
+            "age_days": 4.5
         },
         {
             "title": "What's the closest you've ever come to losing your Bitcoin forever?",
@@ -231,8 +231,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-11 09:21 UTC",
-            "age_hours": 110.6,
-            "age_days": 4.6
+            "age_hours": 111.6,
+            "age_days": 4.7
         },
         {
             "title": "Giving someone bitcoin also means letting them sell it",
@@ -243,7 +243,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-10 19:52 UTC",
-            "age_hours": 124.1,
+            "age_hours": 125.1,
             "age_days": 5.2
         },
         {
@@ -255,7 +255,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-10 16:37 UTC",
-            "age_hours": 127.4,
+            "age_hours": 128.4,
             "age_days": 5.3
         },
         {
@@ -267,7 +267,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-10 14:22 UTC",
-            "age_hours": 129.6,
+            "age_hours": 130.6,
             "age_days": 5.4
         },
         {
@@ -279,7 +279,7 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (phishing)",
             "last_activity": "2026-09-09 22:31 UTC",
-            "age_hours": 145.5,
+            "age_hours": 146.5,
             "age_days": 6.1
         },
         {
@@ -291,7 +291,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-09 09:51 UTC",
-            "age_hours": 158.1,
+            "age_hours": 159.1,
             "age_days": 6.6
         }
     ]
