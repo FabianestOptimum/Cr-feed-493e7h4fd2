@@ -1,13 +1,13 @@
 {
-    "generated_at": "2026-09-18T11:00:02+00:00",
-    "generated_at_local": "2026-09-18 13:00",
+    "generated_at": "2026-09-18T12:00:01+00:00",
+    "generated_at_local": "2026-09-18 14:00",
     "window_hours": 168,
     "subreddits_checked": 18,
     "subreddits_reached": 18,
-    "checked_this_run": 8,
-    "next_start": "btc",
-    "pace_seconds": 142,
-    "new_this_run": 1,
+    "checked_this_run": 9,
+    "next_start": "Tangem",
+    "pace_seconds": 136,
+    "new_this_run": 0,
     "match_count": 14,
     "strong_count": 4,
     "theft_count": 3,
@@ -26,10 +26,10 @@
                 "comment_url": "https://www.reddit.com/r/Metamask/comments/1w6dqlc/help_please_database_cannot_be_accessed/p8x6ad0/",
                 "thread_url": "https://www.reddit.com/r/Metamask/comments/1w6dqlc/",
                 "commented_at": "2026-09-10 09:56 UTC",
-                "age_hours": 193.1,
+                "age_hours": 194.1,
                 "activity_after": 0,
                 "thread_size": 4,
-                "checked_at": "2026-09-18 11:02 UTC"
+                "checked_at": "2026-09-18 12:00 UTC"
             },
             {
                 "title": "/u/Fab_Crypto_Recovers on Need help with old wallet issues",
@@ -37,32 +37,32 @@
                 "comment_url": "https://www.reddit.com/r/Electrum/comments/1w9mgwk/need_help_with_old_wallet_issues/p8wvhhj/",
                 "thread_url": "https://www.reddit.com/r/Electrum/comments/1w9mgwk/",
                 "commented_at": "2026-09-10 08:25 UTC",
-                "age_hours": 194.6,
+                "age_hours": 195.6,
                 "activity_after": 0,
                 "thread_size": 16,
-                "checked_at": "2026-09-18 11:04 UTC"
+                "checked_at": "2026-09-18 12:01 UTC"
             }
         ]
     },
     "source_status": {
-        "CryptoHelp": "geen match binnen venster (36 verse posts bekeken) - -0.3u geleden",
-        "BitcoinBeginners": "ok - 2 matches (8 verse posts bekeken) - -0.3u geleden",
-        "Bitcoin": "ok - 1 matches (100 verse posts bekeken) - -0.4u geleden",
-        "btc": "geen match binnen venster (77 verse posts bekeken) - 1.7u geleden",
-        "MetaMask": "geen match binnen venster (4 verse posts bekeken) - 1.7u geleden",
-        "ledgerwallet": "ok - 2 matches (19 verse posts bekeken) - 1.6u geleden",
-        "XRP": "geen match binnen venster (13 verse posts bekeken) - 0.9u geleden",
-        "CryptoCurrencyClassic": "geen match binnen venster (100 verse posts bekeken) - 0.8u geleden",
-        "CryptoCurrency": "geen match binnen venster (85 verse posts bekeken) - 0.8u geleden",
-        "Monero": "geen match binnen venster (21 verse posts bekeken) - 0.8u geleden",
-        "Electrum": "geen match binnen venster (2 verse posts bekeken) - 0.7u geleden",
-        "Trezor": "ok - 1 matches (14 verse posts bekeken) - 0.7u geleden",
-        "Tangem": "geen match binnen venster (18 verse posts bekeken) - 0.6u geleden",
-        "solana": "geen match binnen venster (68 verse posts bekeken) - -0.1u geleden",
-        "ethereum": "geen match binnen venster (14 verse posts bekeken) - -0.1u geleden",
-        "cro": "geen match binnen venster (3 verse posts bekeken) - -0.2u geleden",
-        "geldzaken": "geen match binnen venster (31 verse posts bekeken) - -0.2u geleden",
-        "BitcoinDE": "geen match binnen venster (0 verse posts bekeken) - -0.2u geleden",
+        "CryptoHelp": "geen match binnen venster (36 verse posts bekeken) - 0.7u geleden",
+        "BitcoinBeginners": "ok - 2 matches (8 verse posts bekeken) - 0.7u geleden",
+        "Bitcoin": "ok - 1 matches (100 verse posts bekeken) - 0.6u geleden",
+        "btc": "geen match binnen venster (77 verse posts bekeken) - -0u geleden",
+        "MetaMask": "geen match binnen venster (4 verse posts bekeken) - -0.1u geleden",
+        "ledgerwallet": "ok - 2 matches (19 verse posts bekeken) - -0.1u geleden",
+        "XRP": "geen match binnen venster (13 verse posts bekeken) - -0.1u geleden",
+        "CryptoCurrencyClassic": "geen match binnen venster (100 verse posts bekeken) - -0.2u geleden",
+        "CryptoCurrency": "geen match binnen venster (82 verse posts bekeken) - -0.2u geleden",
+        "Monero": "geen match binnen venster (21 verse posts bekeken) - -0.3u geleden",
+        "Electrum": "geen match binnen venster (2 verse posts bekeken) - -0.3u geleden",
+        "Trezor": "ok - 1 matches (14 verse posts bekeken) - -0.3u geleden",
+        "Tangem": "geen match binnen venster (18 verse posts bekeken) - 1.6u geleden",
+        "solana": "geen match binnen venster (68 verse posts bekeken) - 0.9u geleden",
+        "ethereum": "geen match binnen venster (14 verse posts bekeken) - 0.9u geleden",
+        "cro": "geen match binnen venster (3 verse posts bekeken) - 0.8u geleden",
+        "geldzaken": "geen match binnen venster (31 verse posts bekeken) - 0.8u geleden",
+        "BitcoinDE": "geen match binnen venster (0 verse posts bekeken) - 0.8u geleden",
         "bitcoin.stackexchange": "ok - 2 matches (3 verse posts bekeken) - -0.4u geleden"
     },
     "items": [
@@ -75,7 +75,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-18 09:26 UTC",
-            "age_hours": 1.6,
+            "age_hours": 2.6,
             "age_days": 0.1
         },
         {
@@ -87,7 +87,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-15 13:31 UTC",
-            "age_hours": 69.5,
+            "age_hours": 70.5,
             "age_days": 2.9
         },
         {
@@ -99,7 +99,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-15 04:57 UTC",
-            "age_hours": 78,
+            "age_hours": 79,
             "age_days": 3.3
         },
         {
@@ -111,8 +111,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-15 03:07 UTC",
-            "age_hours": 79.9,
-            "age_days": 3.3
+            "age_hours": 80.9,
+            "age_days": 3.4
         },
         {
             "title": "YubiShard — split a wallet seed across YubiKeys",
@@ -123,8 +123,8 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (steal)",
             "last_activity": "2026-09-17 02:51 UTC",
-            "age_hours": 32.1,
-            "age_days": 1.3
+            "age_hours": 33.1,
+            "age_days": 1.4
         },
         {
             "title": "Bought a used Ledger, restored my own seed, but the old owner's coins are still sitting on his addresses",
@@ -135,8 +135,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-16 10:15 UTC",
-            "age_hours": 48.7,
-            "age_days": 2
+            "age_hours": 49.7,
+            "age_days": 2.1
         },
         {
             "title": "hit a rate limit wall trying to sort a list of old mixed crypto addresses, any fix?",
@@ -147,7 +147,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-15 01:29 UTC",
-            "age_hours": 81.5,
+            "age_hours": 82.5,
             "age_days": 3.4
         },
         {
@@ -159,7 +159,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-14 13:13 UTC",
-            "age_hours": 93.8,
+            "age_hours": 94.8,
             "age_days": 3.9
         },
         {
@@ -171,7 +171,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-14 00:09 UTC",
-            "age_hours": 106.8,
+            "age_hours": 107.8,
             "age_days": 4.5
         },
         {
@@ -183,8 +183,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-13 15:13 UTC",
-            "age_hours": 115.8,
-            "age_days": 4.8
+            "age_hours": 116.8,
+            "age_days": 4.9
         },
         {
             "title": "I built a small BIP-39 checksum device for manually generated entropy",
@@ -195,7 +195,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-12 16:57 UTC",
-            "age_hours": 138,
+            "age_hours": 139,
             "age_days": 5.8
         },
         {
@@ -207,7 +207,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-12 14:01 UTC",
-            "age_hours": 141,
+            "age_hours": 142,
             "age_days": 5.9
         },
         {
@@ -219,8 +219,8 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (hacked)",
             "last_activity": "2026-09-12 05:42 UTC",
-            "age_hours": 149.3,
-            "age_days": 6.2
+            "age_hours": 150.3,
+            "age_days": 6.3
         },
         {
             "title": "0.150509 BTC was transferred from my Trust Wallet without my authorization — I need technical help understanding what happened",
@@ -231,7 +231,7 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (compromised)",
             "last_activity": "2026-09-11 13:39 UTC",
-            "age_hours": 165.3,
+            "age_hours": 166.3,
             "age_days": 6.9
         }
     ]
