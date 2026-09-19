@@ -1,12 +1,12 @@
 {
-    "generated_at": "2026-09-19T20:00:01+00:00",
-    "generated_at_local": "2026-09-19 22:00",
+    "generated_at": "2026-09-19T21:00:01+00:00",
+    "generated_at_local": "2026-09-19 23:00",
     "window_hours": 168,
     "subreddits_checked": 18,
     "subreddits_reached": 18,
-    "checked_this_run": 8,
-    "next_start": "CryptoCurrency",
-    "pace_seconds": 142,
+    "checked_this_run": 7,
+    "next_start": "cro",
+    "pace_seconds": 146,
     "new_this_run": 0,
     "match_count": 13,
     "strong_count": 4,
@@ -26,10 +26,10 @@
                 "comment_url": "https://www.reddit.com/r/Metamask/comments/1w6dqlc/help_please_database_cannot_be_accessed/p8x6ad0/",
                 "thread_url": "https://www.reddit.com/r/Metamask/comments/1w6dqlc/",
                 "commented_at": "2026-09-10 09:56 UTC",
-                "age_hours": 226.1,
+                "age_hours": 227.1,
                 "activity_after": 0,
                 "thread_size": 4,
-                "checked_at": "2026-09-19 20:02 UTC"
+                "checked_at": "2026-09-19 21:02 UTC"
             },
             {
                 "title": "/u/Fab_Crypto_Recovers on Need help with old wallet issues",
@@ -37,32 +37,32 @@
                 "comment_url": "https://www.reddit.com/r/Electrum/comments/1w9mgwk/need_help_with_old_wallet_issues/p8wvhhj/",
                 "thread_url": "https://www.reddit.com/r/Electrum/comments/1w9mgwk/",
                 "commented_at": "2026-09-10 08:25 UTC",
-                "age_hours": 227.6,
+                "age_hours": 228.6,
                 "activity_after": 0,
                 "thread_size": 16,
-                "checked_at": "2026-09-19 20:04 UTC"
+                "checked_at": "2026-09-19 21:04 UTC"
             }
         ]
     },
     "source_status": {
-        "CryptoHelp": "geen match binnen venster (40 verse posts bekeken) - -0.1u geleden",
-        "BitcoinBeginners": "ok - 1 matches (11 verse posts bekeken) - -0.1u geleden",
-        "Bitcoin": "ok - 2 matches (100 verse posts bekeken) - -0.2u geleden",
-        "btc": "geen match binnen venster (84 verse posts bekeken) - -0.2u geleden",
-        "MetaMask": "geen match binnen venster (4 verse posts bekeken) - -0.2u geleden",
-        "ledgerwallet": "ok - 1 matches (19 verse posts bekeken) - -0.3u geleden",
-        "XRP": "geen match binnen venster (15 verse posts bekeken) - -0.3u geleden",
-        "CryptoCurrencyClassic": "ok - 1 matches (100 verse posts bekeken) - -0.4u geleden",
-        "CryptoCurrency": "ok - 1 matches (73 verse posts bekeken) - 1.8u geleden",
-        "Monero": "geen match binnen venster (20 verse posts bekeken) - 1.8u geleden",
-        "Electrum": "geen match binnen venster (2 verse posts bekeken) - 1.7u geleden",
-        "Trezor": "ok - 1 matches (11 verse posts bekeken) - 1.7u geleden",
-        "Tangem": "geen match binnen venster (16 verse posts bekeken) - 0.9u geleden",
-        "solana": "geen match binnen venster (72 verse posts bekeken) - 0.8u geleden",
-        "ethereum": "geen match binnen venster (13 verse posts bekeken) - 0.8u geleden",
-        "cro": "geen match binnen venster (9 verse posts bekeken) - 0.8u geleden",
-        "geldzaken": "geen match binnen venster (33 verse posts bekeken) - 0.7u geleden",
-        "BitcoinDE": "geen match binnen venster (1 verse posts bekeken) - 0.7u geleden",
+        "CryptoHelp": "geen match binnen venster (40 verse posts bekeken) - 0.9u geleden",
+        "BitcoinBeginners": "ok - 1 matches (11 verse posts bekeken) - 0.9u geleden",
+        "Bitcoin": "ok - 2 matches (100 verse posts bekeken) - 0.8u geleden",
+        "btc": "geen match binnen venster (84 verse posts bekeken) - 0.8u geleden",
+        "MetaMask": "geen match binnen venster (4 verse posts bekeken) - 0.8u geleden",
+        "ledgerwallet": "ok - 1 matches (19 verse posts bekeken) - 0.7u geleden",
+        "XRP": "geen match binnen venster (15 verse posts bekeken) - 0.7u geleden",
+        "CryptoCurrencyClassic": "ok - 1 matches (100 verse posts bekeken) - 0.6u geleden",
+        "CryptoCurrency": "ok - 1 matches (75 verse posts bekeken) - -0.1u geleden",
+        "Monero": "geen match binnen venster (20 verse posts bekeken) - -0.2u geleden",
+        "Electrum": "geen match binnen venster (1 verse posts bekeken) - -0.2u geleden",
+        "Trezor": "ok - 1 matches (12 verse posts bekeken) - -0.2u geleden",
+        "Tangem": "geen match binnen venster (16 verse posts bekeken) - -0.3u geleden",
+        "solana": "geen match binnen venster (71 verse posts bekeken) - -0.3u geleden",
+        "ethereum": "geen match binnen venster (12 verse posts bekeken) - -0.4u geleden",
+        "cro": "geen match binnen venster (9 verse posts bekeken) - 1.8u geleden",
+        "geldzaken": "geen match binnen venster (33 verse posts bekeken) - 1.7u geleden",
+        "BitcoinDE": "geen match binnen venster (1 verse posts bekeken) - 1.7u geleden",
         "bitcoin.stackexchange": "ok - 2 matches (3 verse posts bekeken) - -0.4u geleden"
     },
     "items": [
@@ -75,8 +75,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-18 09:26 UTC",
-            "age_hours": 34.6,
-            "age_days": 1.4
+            "age_hours": 35.6,
+            "age_days": 1.5
         },
         {
             "title": "Forgotten Bitcoin Core wallet passphrase",
@@ -87,7 +87,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-15 13:31 UTC",
-            "age_hours": 102.5,
+            "age_hours": 103.5,
             "age_days": 4.3
         },
         {
@@ -99,8 +99,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-15 04:57 UTC",
-            "age_hours": 111,
-            "age_days": 4.6
+            "age_hours": 112,
+            "age_days": 4.7
         },
         {
             "title": "If a BIP39 hardware wallet is lost, what exactly is recovered from the seed phrase?",
@@ -111,7 +111,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-15 03:07 UTC",
-            "age_hours": 112.9,
+            "age_hours": 113.9,
             "age_days": 4.7
         },
         {
@@ -123,7 +123,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-19 15:15 UTC",
-            "age_hours": 4.7,
+            "age_hours": 5.7,
             "age_days": 0.2
         },
         {
@@ -135,7 +135,7 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (hack)",
             "last_activity": "2026-09-19 15:04 UTC",
-            "age_hours": 4.9,
+            "age_hours": 5.9,
             "age_days": 0.2
         },
         {
@@ -147,8 +147,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-19 11:40 UTC",
-            "age_hours": 8.3,
-            "age_days": 0.3
+            "age_hours": 9.3,
+            "age_days": 0.4
         },
         {
             "title": "YubiShard — split a wallet seed across YubiKeys",
@@ -159,8 +159,8 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (steal)",
             "last_activity": "2026-09-17 02:51 UTC",
-            "age_hours": 65.1,
-            "age_days": 2.7
+            "age_hours": 66.1,
+            "age_days": 2.8
         },
         {
             "title": "Bought a used Ledger, restored my own seed, but the old owner's coins are still sitting on his addresses",
@@ -171,7 +171,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-16 10:15 UTC",
-            "age_hours": 81.7,
+            "age_hours": 82.7,
             "age_days": 3.4
         },
         {
@@ -183,7 +183,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-15 01:29 UTC",
-            "age_hours": 114.5,
+            "age_hours": 115.5,
             "age_days": 4.8
         },
         {
@@ -195,7 +195,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-14 13:13 UTC",
-            "age_hours": 126.8,
+            "age_hours": 127.8,
             "age_days": 5.3
         },
         {
@@ -207,8 +207,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-14 00:09 UTC",
-            "age_hours": 139.8,
-            "age_days": 5.8
+            "age_hours": 140.8,
+            "age_days": 5.9
         },
         {
             "title": "I’m building a metal seed backup. What would make it worth choosing over DIY?",
@@ -219,7 +219,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-13 15:13 UTC",
-            "age_hours": 148.8,
+            "age_hours": 149.8,
             "age_days": 6.2
         }
     ]
