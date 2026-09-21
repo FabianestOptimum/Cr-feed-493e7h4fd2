@@ -1,11 +1,11 @@
 {
-    "generated_at": "2026-09-21T02:00:01+00:00",
-    "generated_at_local": "2026-09-21 04:00",
+    "generated_at": "2026-09-21T03:00:02+00:00",
+    "generated_at_local": "2026-09-21 05:00",
     "window_hours": 168,
     "subreddits_checked": 18,
     "subreddits_reached": 18,
     "checked_this_run": 7,
-    "next_start": "CryptoHelp",
+    "next_start": "CryptoCurrencyClassic",
     "pace_seconds": 146,
     "new_this_run": 0,
     "match_count": 12,
@@ -26,10 +26,10 @@
                 "comment_url": "https://www.reddit.com/r/Metamask/comments/1w6dqlc/help_please_database_cannot_be_accessed/p8x6ad0/",
                 "thread_url": "https://www.reddit.com/r/Metamask/comments/1w6dqlc/",
                 "commented_at": "2026-09-10 09:56 UTC",
-                "age_hours": 256.1,
+                "age_hours": 257.1,
                 "activity_after": 0,
                 "thread_size": 4,
-                "checked_at": "2026-09-21 02:02 UTC"
+                "checked_at": "2026-09-21 03:02 UTC"
             },
             {
                 "title": "/u/Fab_Crypto_Recovers on Need help with old wallet issues",
@@ -37,32 +37,32 @@
                 "comment_url": "https://www.reddit.com/r/Electrum/comments/1w9mgwk/need_help_with_old_wallet_issues/p8wvhhj/",
                 "thread_url": "https://www.reddit.com/r/Electrum/comments/1w9mgwk/",
                 "commented_at": "2026-09-10 08:25 UTC",
-                "age_hours": 257.6,
+                "age_hours": 258.6,
                 "activity_after": 0,
                 "thread_size": 16,
-                "checked_at": "2026-09-21 02:04 UTC"
+                "checked_at": "2026-09-21 03:04 UTC"
             }
         ]
     },
     "source_status": {
-        "CryptoHelp": "geen match binnen venster (38 verse posts bekeken) - 1.8u geleden",
-        "BitcoinBeginners": "ok - 1 matches (13 verse posts bekeken) - 1.8u geleden",
-        "Bitcoin": "ok - 2 matches (100 verse posts bekeken) - 1.7u geleden",
-        "btc": "geen match binnen venster (80 verse posts bekeken) - 1.7u geleden",
-        "MetaMask": "geen match binnen venster (4 verse posts bekeken) - 1.6u geleden",
-        "ledgerwallet": "ok - 1 matches (20 verse posts bekeken) - 0.9u geleden",
-        "XRP": "geen match binnen venster (15 verse posts bekeken) - 0.8u geleden",
-        "CryptoCurrencyClassic": "ok - 1 matches (100 verse posts bekeken) - 0.8u geleden",
-        "CryptoCurrency": "ok - 1 matches (73 verse posts bekeken) - 0.8u geleden",
-        "Monero": "geen match binnen venster (24 verse posts bekeken) - 0.7u geleden",
-        "Electrum": "geen match binnen venster (1 verse posts bekeken) - 0.7u geleden",
-        "Trezor": "ok - 1 matches (8 verse posts bekeken) - -0.1u geleden",
-        "Tangem": "geen match binnen venster (15 verse posts bekeken) - -0.2u geleden",
-        "solana": "geen match binnen venster (69 verse posts bekeken) - -0.2u geleden",
-        "ethereum": "geen match binnen venster (11 verse posts bekeken) - -0.2u geleden",
-        "cro": "geen match binnen venster (11 verse posts bekeken) - -0.3u geleden",
-        "geldzaken": "geen match binnen venster (33 verse posts bekeken) - -0.3u geleden",
-        "BitcoinDE": "geen match binnen venster (1 verse posts bekeken) - -0.4u geleden",
+        "CryptoHelp": "geen match binnen venster (39 verse posts bekeken) - -0.1u geleden",
+        "BitcoinBeginners": "ok - 1 matches (13 verse posts bekeken) - -0.2u geleden",
+        "Bitcoin": "ok - 2 matches (100 verse posts bekeken) - -0.2u geleden",
+        "btc": "geen match binnen venster (81 verse posts bekeken) - -0.2u geleden",
+        "MetaMask": "geen match binnen venster (4 verse posts bekeken) - -0.3u geleden",
+        "ledgerwallet": "ok - 1 matches (20 verse posts bekeken) - -0.3u geleden",
+        "XRP": "geen match binnen venster (15 verse posts bekeken) - -0.4u geleden",
+        "CryptoCurrencyClassic": "ok - 1 matches (100 verse posts bekeken) - 1.8u geleden",
+        "CryptoCurrency": "ok - 1 matches (73 verse posts bekeken) - 1.8u geleden",
+        "Monero": "geen match binnen venster (24 verse posts bekeken) - 1.7u geleden",
+        "Electrum": "geen match binnen venster (1 verse posts bekeken) - 1.7u geleden",
+        "Trezor": "ok - 1 matches (8 verse posts bekeken) - 0.9u geleden",
+        "Tangem": "geen match binnen venster (15 verse posts bekeken) - 0.8u geleden",
+        "solana": "geen match binnen venster (69 verse posts bekeken) - 0.8u geleden",
+        "ethereum": "geen match binnen venster (11 verse posts bekeken) - 0.8u geleden",
+        "cro": "geen match binnen venster (11 verse posts bekeken) - 0.7u geleden",
+        "geldzaken": "geen match binnen venster (33 verse posts bekeken) - 0.7u geleden",
+        "BitcoinDE": "geen match binnen venster (1 verse posts bekeken) - 0.6u geleden",
         "bitcoin.stackexchange": "ok - 2 matches (3 verse posts bekeken) - -0.4u geleden"
     },
     "items": [
@@ -75,7 +75,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-18 09:26 UTC",
-            "age_hours": 64.6,
+            "age_hours": 65.6,
             "age_days": 2.7
         },
         {
@@ -87,8 +87,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-15 13:31 UTC",
-            "age_hours": 132.5,
-            "age_days": 5.5
+            "age_hours": 133.5,
+            "age_days": 5.6
         },
         {
             "title": "I am trying to create an offline seed phrase tangem wallet but it keeps failing. what am I doing wrong?",
@@ -99,7 +99,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-15 04:57 UTC",
-            "age_hours": 141,
+            "age_hours": 142,
             "age_days": 5.9
         },
         {
@@ -111,7 +111,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-15 03:07 UTC",
-            "age_hours": 142.9,
+            "age_hours": 143.9,
             "age_days": 6
         },
         {
@@ -123,7 +123,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-19 21:11 UTC",
-            "age_hours": 28.8,
+            "age_hours": 29.8,
             "age_days": 1.2
         },
         {
@@ -135,8 +135,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-19 15:15 UTC",
-            "age_hours": 34.7,
-            "age_days": 1.4
+            "age_hours": 35.7,
+            "age_days": 1.5
         },
         {
             "title": "I built a seed creation, backup and inheritance process",
@@ -147,7 +147,7 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (hack)",
             "last_activity": "2026-09-19 15:04 UTC",
-            "age_hours": 34.9,
+            "age_hours": 35.9,
             "age_days": 1.5
         },
         {
@@ -159,7 +159,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-19 11:40 UTC",
-            "age_hours": 38.3,
+            "age_hours": 39.3,
             "age_days": 1.6
         },
         {
@@ -171,7 +171,7 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (steal)",
             "last_activity": "2026-09-17 02:51 UTC",
-            "age_hours": 95.1,
+            "age_hours": 96.1,
             "age_days": 4
         },
         {
@@ -183,7 +183,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-16 10:15 UTC",
-            "age_hours": 111.7,
+            "age_hours": 112.7,
             "age_days": 4.7
         },
         {
@@ -195,8 +195,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-15 01:29 UTC",
-            "age_hours": 144.5,
-            "age_days": 6
+            "age_hours": 145.5,
+            "age_days": 6.1
         },
         {
             "title": "Bitcoin Core HELP",
@@ -207,8 +207,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-09-14 13:13 UTC",
-            "age_hours": 156.8,
-            "age_days": 6.5
+            "age_hours": 157.8,
+            "age_days": 6.6
         }
     ]
 }
