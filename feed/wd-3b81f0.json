@@ -1,11 +1,11 @@
 {
-    "generated_at": "2026-10-30T05:00:02+00:00",
-    "generated_at_local": "2026-10-30 06:00",
+    "generated_at": "2026-10-30T06:00:02+00:00",
+    "generated_at_local": "2026-10-30 07:00",
     "window_hours": 168,
     "subreddits_checked": 18,
     "subreddits_reached": 18,
     "checked_this_run": 7,
-    "next_start": "BitcoinBeginners",
+    "next_start": "CryptoCurrency",
     "pace_seconds": 146,
     "new_this_run": 0,
     "match_count": 15,
@@ -26,7 +26,7 @@
                 "comment_url": "https://www.reddit.com/r/CryptoHelp/comments/1xhsg26/cant_access_zengo_did_i_lost_10k/19rtyhtu256td/",
                 "thread_url": "https://www.reddit.com/r/CryptoHelp/comments/1xhsg26/",
                 "commented_at": "2026-10-29 13:08 UTC",
-                "age_hours": 15.9,
+                "age_hours": 16.9,
                 "activity_after": 0,
                 "thread_size": 13,
                 "checked_at": "2026-10-30 02:04 UTC"
@@ -37,10 +37,10 @@
                 "comment_url": "https://www.reddit.com/r/CryptoHelp/comments/1x64rkt/coinbase_smart_wallet_passkey_opens_wrong_address/pgusu6i/",
                 "thread_url": "https://www.reddit.com/r/CryptoHelp/comments/1x64rkt/",
                 "commented_at": "2026-10-15 07:38 UTC",
-                "age_hours": 357.4,
+                "age_hours": 358.4,
                 "activity_after": 1,
                 "thread_size": 6,
-                "checked_at": "2026-10-30 02:02 UTC"
+                "checked_at": "2026-10-30 06:04 UTC"
             },
             {
                 "title": "/u/Fab_Crypto_Recovers on Can Electrum help verify or restore a Bitcoin wallet originally created with Coldcard Mk1 in 2018?",
@@ -48,10 +48,10 @@
                 "comment_url": "https://www.reddit.com/r/Electrum/comments/1x1k780/can_electrum_help_verify_or_restore_a_bitcoin/pgomdut/",
                 "thread_url": "https://www.reddit.com/r/Electrum/comments/1x1k780/",
                 "commented_at": "2026-10-14 13:12 UTC",
-                "age_hours": 375.8,
+                "age_hours": 376.8,
                 "activity_after": 1,
                 "thread_size": 6,
-                "checked_at": "2026-10-30 01:04 UTC"
+                "checked_at": "2026-10-30 06:02 UTC"
             },
             {
                 "title": "/u/Fab_Crypto_Recovers on Title: Help recovering BTC from old Keystone Pro + Core Wallet — derivation path issue",
@@ -59,7 +59,7 @@
                 "comment_url": "https://www.reddit.com/r/Electrum/comments/1x2cwm9/title_help_recovering_btc_from_old_keystone_pro/pf74y18/",
                 "thread_url": "https://www.reddit.com/r/Electrum/comments/1x2cwm9/",
                 "commented_at": "2026-10-11 07:08 UTC",
-                "age_hours": 453.9,
+                "age_hours": 454.9,
                 "activity_after": 1,
                 "thread_size": 3,
                 "checked_at": "2026-10-30 05:04 UTC"
@@ -70,7 +70,7 @@
                 "comment_url": "https://www.reddit.com/r/Bitcoin/comments/1x1jzhr/need_help_recovering_bitcoin_from_a_2018_coldcard/pf0b4i4/",
                 "thread_url": "https://www.reddit.com/r/Bitcoin/comments/1x1jzhr/",
                 "commented_at": "2026-10-10 08:03 UTC",
-                "age_hours": 476.9,
+                "age_hours": 477.9,
                 "activity_after": 1,
                 "thread_size": 5,
                 "checked_at": "2026-10-30 05:02 UTC"
@@ -81,7 +81,7 @@
                 "comment_url": "https://www.reddit.com/r/Electrum/comments/1x1k780/can_electrum_help_verify_or_restore_a_bitcoin/pf0amnj/",
                 "thread_url": "https://www.reddit.com/r/Electrum/comments/1x1k780/",
                 "commented_at": "2026-10-10 07:59 UTC",
-                "age_hours": 477,
+                "age_hours": 478,
                 "activity_after": 2,
                 "thread_size": 6,
                 "checked_at": "2026-10-30 04:04 UTC"
@@ -92,7 +92,7 @@
                 "comment_url": "https://www.reddit.com/r/Bitcoin/comments/1x0bumm/recovering_old_walletdat/pelglcc/",
                 "thread_url": "https://www.reddit.com/r/Bitcoin/comments/1x0bumm/",
                 "commented_at": "2026-10-08 07:54 UTC",
-                "age_hours": 525.1,
+                "age_hours": 526.1,
                 "activity_after": 3,
                 "thread_size": 18,
                 "checked_at": "2026-10-30 04:02 UTC"
@@ -103,7 +103,7 @@
                 "comment_url": "https://www.reddit.com/r/ethereum/comments/1wr2g7r/best_recovery_service/pcyrh48/",
                 "thread_url": "https://www.reddit.com/r/ethereum/comments/1wr2g7r/",
                 "commented_at": "2026-09-30 08:55 UTC",
-                "age_hours": 716.1,
+                "age_hours": 717.1,
                 "activity_after": 0,
                 "thread_size": 26,
                 "checked_at": "2026-10-30 03:02 UTC"
@@ -114,7 +114,7 @@
                 "comment_url": "https://www.reddit.com/r/BitcoinBeginners/comments/1wszdja/i_forgot_my_bip38_password/pcypyw1/",
                 "thread_url": "https://www.reddit.com/r/BitcoinBeginners/comments/1wszdja/",
                 "commented_at": "2026-09-30 08:43 UTC",
-                "age_hours": 716.3,
+                "age_hours": 717.3,
                 "activity_after": 2,
                 "thread_size": 12,
                 "checked_at": "2026-10-30 03:04 UTC"
@@ -122,24 +122,24 @@
         ]
     },
     "source_status": {
-        "CryptoHelp": "ok - 4 matches (45 verse posts bekeken) - -0.4u geleden",
-        "BitcoinBeginners": "geen match binnen venster (6 verse posts bekeken) - 1.8u geleden",
-        "Bitcoin": "ok - 1 matches (100 verse posts bekeken) - 1.7u geleden",
-        "btc": "ok - 2 matches (47 verse posts bekeken) - 1.7u geleden",
-        "MetaMask": "ok - 1 matches (11 verse posts bekeken) - 1.6u geleden",
-        "ledgerwallet": "ok - 2 matches (23 verse posts bekeken) - 0.9u geleden",
-        "XRP": "geen match binnen venster (5 verse posts bekeken) - 0.8u geleden",
-        "CryptoCurrencyClassic": "geen match binnen venster (100 verse posts bekeken) - 0.8u geleden",
-        "CryptoCurrency": "ok - 1 matches (86 verse posts bekeken) - 0.8u geleden",
-        "Monero": "geen match binnen venster (23 verse posts bekeken) - 0.7u geleden",
-        "Electrum": "geen match binnen venster (3 verse posts bekeken) - 0.7u geleden",
-        "Trezor": "ok - 2 matches (8 verse posts bekeken) - 0.6u geleden",
-        "Tangem": "geen match binnen venster (22 verse posts bekeken) - -0.1u geleden",
-        "solana": "geen match binnen venster (66 verse posts bekeken) - -0.2u geleden",
-        "ethereum": "geen match binnen venster (15 verse posts bekeken) - -0.2u geleden",
-        "cro": "geen match binnen venster (7 verse posts bekeken) - -0.2u geleden",
-        "geldzaken": "geen match binnen venster (33 verse posts bekeken) - -0.3u geleden",
-        "BitcoinDE": "geen match binnen venster (3 verse posts bekeken) - -0.3u geleden",
+        "CryptoHelp": "ok - 4 matches (45 verse posts bekeken) - 0.6u geleden",
+        "BitcoinBeginners": "geen match binnen venster (5 verse posts bekeken) - -0.1u geleden",
+        "Bitcoin": "ok - 1 matches (100 verse posts bekeken) - -0.2u geleden",
+        "btc": "ok - 1 matches (47 verse posts bekeken) - -0.2u geleden",
+        "MetaMask": "ok - 1 matches (11 verse posts bekeken) - -0.2u geleden",
+        "ledgerwallet": "ok - 2 matches (23 verse posts bekeken) - -0.3u geleden",
+        "XRP": "geen match binnen venster (5 verse posts bekeken) - -0.3u geleden",
+        "CryptoCurrencyClassic": "geen match binnen venster (100 verse posts bekeken) - -0.4u geleden",
+        "CryptoCurrency": "ok - 1 matches (86 verse posts bekeken) - 1.8u geleden",
+        "Monero": "geen match binnen venster (23 verse posts bekeken) - 1.7u geleden",
+        "Electrum": "geen match binnen venster (3 verse posts bekeken) - 1.7u geleden",
+        "Trezor": "ok - 2 matches (8 verse posts bekeken) - 1.6u geleden",
+        "Tangem": "geen match binnen venster (22 verse posts bekeken) - 0.9u geleden",
+        "solana": "geen match binnen venster (66 verse posts bekeken) - 0.8u geleden",
+        "ethereum": "geen match binnen venster (15 verse posts bekeken) - 0.8u geleden",
+        "cro": "geen match binnen venster (7 verse posts bekeken) - 0.8u geleden",
+        "geldzaken": "geen match binnen venster (33 verse posts bekeken) - 0.7u geleden",
+        "BitcoinDE": "geen match binnen venster (3 verse posts bekeken) - 0.7u geleden",
         "bitcoin.stackexchange": "ok - 1 matches (2 verse posts bekeken) - -0.4u geleden"
     },
     "items": [
@@ -152,7 +152,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-10-29 05:52 UTC",
-            "age_hours": 23.1,
+            "age_hours": 24.1,
             "age_days": 1
         },
         {
@@ -164,8 +164,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-10-28 16:12 UTC",
-            "age_hours": 36.8,
-            "age_days": 1.5
+            "age_hours": 37.8,
+            "age_days": 1.6
         },
         {
             "title": "Can't access Zengo ; Did I lost 10k€ in Bitcoin ?!",
@@ -176,8 +176,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-10-28 16:13 UTC",
-            "age_hours": 36.8,
-            "age_days": 1.5
+            "age_hours": 37.8,
+            "age_days": 1.6
         },
         {
             "title": "Just found my lost seed phrase! Now I'm trying to remember what wallet app I used...",
@@ -188,8 +188,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-10-23 19:06 UTC",
-            "age_hours": 153.9,
-            "age_days": 6.4
+            "age_hours": 154.9,
+            "age_days": 6.5
         },
         {
             "title": "Ledger bought from the official store, seed only on paper, BTC drained a few days later. The same thief address has emptied 9 wallets since September",
@@ -200,7 +200,7 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (drained)",
             "last_activity": "2026-10-30 01:04 UTC",
-            "age_hours": 3.9,
+            "age_hours": 4.9,
             "age_days": 0.2
         },
         {
@@ -212,7 +212,7 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (stolen)",
             "last_activity": "2026-10-29 22:12 UTC",
-            "age_hours": 6.8,
+            "age_hours": 7.8,
             "age_days": 0.3
         },
         {
@@ -224,7 +224,7 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (compromise)",
             "last_activity": "2026-10-28 17:23 UTC",
-            "age_hours": 35.6,
+            "age_hours": 36.6,
             "age_days": 1.5
         },
         {
@@ -236,7 +236,7 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (drain)",
             "last_activity": "2026-10-27 03:25 UTC",
-            "age_hours": 73.6,
+            "age_hours": 74.6,
             "age_days": 3.1
         },
         {
@@ -248,7 +248,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-10-25 20:10 UTC",
-            "age_hours": 104.8,
+            "age_hours": 105.8,
             "age_days": 4.4
         },
         {
@@ -260,7 +260,7 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (steal)",
             "last_activity": "2026-10-25 17:15 UTC",
-            "age_hours": 107.7,
+            "age_hours": 108.7,
             "age_days": 4.5
         },
         {
@@ -272,8 +272,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-10-24 23:51 UTC",
-            "age_hours": 125.1,
-            "age_days": 5.2
+            "age_hours": 126.1,
+            "age_days": 5.3
         },
         {
             "title": "How did you decide when to move from the exchange to self-custody?",
@@ -284,7 +284,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-10-24 18:08 UTC",
-            "age_hours": 130.9,
+            "age_hours": 131.9,
             "age_days": 5.5
         },
         {
@@ -296,8 +296,8 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (drained)",
             "last_activity": "2026-10-23 21:29 UTC",
-            "age_hours": 151.5,
-            "age_days": 6.3
+            "age_hours": 152.5,
+            "age_days": 6.4
         },
         {
             "title": "Idea for new feature regarding passphrase typing",
@@ -308,8 +308,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-10-23 09:17 UTC",
-            "age_hours": 163.7,
-            "age_days": 6.8
+            "age_hours": 164.7,
+            "age_days": 6.9
         },
         {
             "title": "Coolblue claims Ledger wallets are 100% safe.",
@@ -320,8 +320,8 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (phishing)",
             "last_activity": "2026-10-23 08:49 UTC",
-            "age_hours": 164.2,
-            "age_days": 6.8
+            "age_hours": 165.2,
+            "age_days": 6.9
         }
     ]
 }
