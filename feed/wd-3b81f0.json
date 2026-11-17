@@ -1,11 +1,11 @@
 {
-    "generated_at": "2026-11-17T13:00:01+00:00",
-    "generated_at_local": "2026-11-17 14:00",
+    "generated_at": "2026-11-17T14:00:02+00:00",
+    "generated_at_local": "2026-11-17 15:00",
     "window_hours": 168,
     "subreddits_checked": 18,
     "subreddits_reached": 18,
     "checked_this_run": 7,
-    "next_start": "ledgerwallet",
+    "next_start": "Tangem",
     "pace_seconds": 146,
     "new_this_run": 0,
     "match_count": 16,
@@ -26,10 +26,10 @@
                 "comment_url": "https://www.reddit.com/r/CryptoHelp/comments/1xl0dta/how_to_restore_access_to_my_gate_account_if_i/19s7whuc6avl1/",
                 "thread_url": "https://www.reddit.com/r/CryptoHelp/comments/1xl0dta/",
                 "commented_at": "2026-11-06 08:43 UTC",
-                "age_hours": 268.3,
+                "age_hours": 269.3,
                 "activity_after": 1,
                 "thread_size": 4,
-                "checked_at": "2026-11-17 13:02 UTC"
+                "checked_at": "2026-11-17 14:04 UTC"
             },
             {
                 "title": "/u/Fab_Crypto_Recovers on Bitcoin recovery",
@@ -37,7 +37,7 @@
                 "comment_url": "https://www.reddit.com/r/Bitcoin/comments/1xol876/bitcoin_recovery/19s7wbwmls3r8/",
                 "thread_url": "https://www.reddit.com/r/Bitcoin/comments/1xol876/",
                 "commented_at": "2026-11-06 08:39 UTC",
-                "age_hours": 268.3,
+                "age_hours": 269.3,
                 "activity_after": 0,
                 "thread_size": 7,
                 "checked_at": "2026-11-17 13:04 UTC"
@@ -48,32 +48,32 @@
                 "comment_url": "https://www.reddit.com/r/CryptoHelp/comments/1xhsg26/cant_access_zengo_did_i_lost_10k/19rtyhtu256td/",
                 "thread_url": "https://www.reddit.com/r/CryptoHelp/comments/1xhsg26/",
                 "commented_at": "2026-10-29 13:08 UTC",
-                "age_hours": 455.9,
+                "age_hours": 456.9,
                 "activity_after": 1,
                 "thread_size": 14,
-                "checked_at": "2026-11-17 12:02 UTC"
+                "checked_at": "2026-11-17 14:02 UTC"
             }
         ]
     },
     "source_status": {
-        "CryptoHelp": "geen match binnen venster (38 verse posts bekeken) - -0.2u geleden",
-        "BitcoinBeginners": "ok - 1 matches (5 verse posts bekeken) - -0.2u geleden",
-        "Bitcoin": "ok - 2 matches (100 verse posts bekeken) - -0.3u geleden",
-        "btc": "ok - 1 matches (43 verse posts bekeken) - -0.3u geleden",
-        "MetaMask": "ok - 1 matches (4 verse posts bekeken) - -0.4u geleden",
-        "ledgerwallet": "ok - 3 matches (28 verse posts bekeken) - 1.7u geleden",
-        "XRP": "geen match binnen venster (7 verse posts bekeken) - 1.6u geleden",
-        "CryptoCurrencyClassic": "ok - 1 matches (100 verse posts bekeken) - 0.9u geleden",
-        "CryptoCurrency": "geen match binnen venster (69 verse posts bekeken) - 0.9u geleden",
-        "Monero": "ok - 1 matches (20 verse posts bekeken) - 0.9u geleden",
-        "Electrum": "geen match binnen venster (3 verse posts bekeken) - 0.8u geleden",
-        "Trezor": "ok - 2 matches (24 verse posts bekeken) - 0.8u geleden",
-        "Tangem": "ok - 1 matches (12 verse posts bekeken) - 0.8u geleden",
-        "solana": "geen match binnen venster (63 verse posts bekeken) - 0.7u geleden",
-        "ethereum": "geen match binnen venster (15 verse posts bekeken) - 0.7u geleden",
-        "cro": "geen match binnen venster (4 verse posts bekeken) - 0.6u geleden",
-        "geldzaken": "geen match binnen venster (28 verse posts bekeken) - -0.1u geleden",
-        "BitcoinDE": "geen match binnen venster (6 verse posts bekeken) - -0.2u geleden",
+        "CryptoHelp": "geen match binnen venster (38 verse posts bekeken) - 0.8u geleden",
+        "BitcoinBeginners": "ok - 1 matches (5 verse posts bekeken) - 0.8u geleden",
+        "Bitcoin": "ok - 2 matches (100 verse posts bekeken) - 0.7u geleden",
+        "btc": "ok - 1 matches (43 verse posts bekeken) - 0.7u geleden",
+        "MetaMask": "ok - 1 matches (4 verse posts bekeken) - 0.6u geleden",
+        "ledgerwallet": "ok - 3 matches (28 verse posts bekeken) - -0.1u geleden",
+        "XRP": "geen match binnen venster (7 verse posts bekeken) - -0.2u geleden",
+        "CryptoCurrencyClassic": "ok - 1 matches (100 verse posts bekeken) - -0.2u geleden",
+        "CryptoCurrency": "geen match binnen venster (70 verse posts bekeken) - -0.2u geleden",
+        "Monero": "ok - 1 matches (19 verse posts bekeken) - -0.3u geleden",
+        "Electrum": "geen match binnen venster (3 verse posts bekeken) - -0.3u geleden",
+        "Trezor": "ok - 2 matches (25 verse posts bekeken) - -0.4u geleden",
+        "Tangem": "ok - 1 matches (12 verse posts bekeken) - 1.8u geleden",
+        "solana": "geen match binnen venster (63 verse posts bekeken) - 1.7u geleden",
+        "ethereum": "geen match binnen venster (15 verse posts bekeken) - 1.7u geleden",
+        "cro": "geen match binnen venster (4 verse posts bekeken) - 1.6u geleden",
+        "geldzaken": "geen match binnen venster (28 verse posts bekeken) - 0.9u geleden",
+        "BitcoinDE": "geen match binnen venster (6 verse posts bekeken) - 0.8u geleden",
         "bitcoin.stackexchange": "ok - 1 matches (2 verse posts bekeken) - -0.4u geleden"
     },
     "items": [
@@ -86,8 +86,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-16 19:58 UTC",
-            "age_hours": 17,
-            "age_days": 0.7
+            "age_hours": 18,
+            "age_days": 0.8
         },
         {
             "title": "Found wallet.dat files after trying to recover files on some old hdd (x-post from /r/Bitcoin)",
@@ -98,8 +98,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-16 17:13 UTC",
-            "age_hours": 19.8,
-            "age_days": 0.8
+            "age_hours": 20.8,
+            "age_days": 0.9
         },
         {
             "title": "Found wallet.dat files after trying to recover files on some old hdd",
@@ -110,8 +110,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-16 17:07 UTC",
-            "age_hours": 19.9,
-            "age_days": 0.8
+            "age_hours": 20.9,
+            "age_days": 0.9
         },
         {
             "title": "Help me help an elderly (NOT tech-savvy) friend with their missing ETH",
@@ -122,7 +122,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-11 16:16 UTC",
-            "age_hours": 140.7,
+            "age_hours": 141.7,
             "age_days": 5.9
         },
         {
@@ -134,8 +134,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-11 10:07 UTC",
-            "age_hours": 146.9,
-            "age_days": 6.1
+            "age_hours": 147.9,
+            "age_days": 6.2
         },
         {
             "title": "My dad just told me he might have 500 Bitcoin somewhere on an old laptop he lost, I think I need therapy.",
@@ -146,7 +146,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-10 18:16 UTC",
-            "age_hours": 162.7,
+            "age_hours": 163.7,
             "age_days": 6.8
         },
         {
@@ -158,8 +158,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-16 19:36 UTC",
-            "age_hours": 17.4,
-            "age_days": 0.7
+            "age_hours": 18.4,
+            "age_days": 0.8
         },
         {
             "title": "Trezor on different PCs",
@@ -170,7 +170,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-16 16:30 UTC",
-            "age_hours": 20.5,
+            "age_hours": 21.5,
             "age_days": 0.9
         },
         {
@@ -182,7 +182,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-15 15:25 UTC",
-            "age_hours": 45.6,
+            "age_hours": 46.6,
             "age_days": 1.9
         },
         {
@@ -194,8 +194,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-15 14:43 UTC",
-            "age_hours": 46.3,
-            "age_days": 1.9
+            "age_hours": 47.3,
+            "age_days": 2
         },
         {
             "title": "🚨 Serious Concern About My Ledger Nano X – Hidden Spy Chip Inside Ledger Nano X",
@@ -206,7 +206,7 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (compromise)",
             "last_activity": "2026-11-15 08:51 UTC",
-            "age_hours": 52.1,
+            "age_hours": 53.1,
             "age_days": 2.2
         },
         {
@@ -218,7 +218,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-15 01:37 UTC",
-            "age_hours": 59.4,
+            "age_hours": 60.4,
             "age_days": 2.5
         },
         {
@@ -230,7 +230,7 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (fraud)",
             "last_activity": "2026-11-14 20:29 UTC",
-            "age_hours": 64.5,
+            "age_hours": 65.5,
             "age_days": 2.7
         },
         {
@@ -242,7 +242,7 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (phishing)",
             "last_activity": "2026-11-12 16:17 UTC",
-            "age_hours": 116.7,
+            "age_hours": 117.7,
             "age_days": 4.9
         },
         {
@@ -254,8 +254,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-11 17:10 UTC",
-            "age_hours": 139.8,
-            "age_days": 5.8
+            "age_hours": 140.8,
+            "age_days": 5.9
         },
         {
             "title": "Is it safe to buy a sealed Ledger Nano S from Vinted for €11?",
@@ -266,8 +266,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-11 14:20 UTC",
-            "age_hours": 142.7,
-            "age_days": 5.9
+            "age_hours": 143.7,
+            "age_days": 6
         }
     ]
 }
