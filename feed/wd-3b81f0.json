@@ -1,11 +1,11 @@
 {
-    "generated_at": "2026-11-17T21:00:02+00:00",
-    "generated_at_local": "2026-11-17 22:00",
+    "generated_at": "2026-11-17T22:00:01+00:00",
+    "generated_at_local": "2026-11-17 23:00",
     "window_hours": 168,
     "subreddits_checked": 18,
-    "subreddits_reached": 18,
+    "subreddits_reached": 14,
     "checked_this_run": 4,
-    "next_start": "ethereum",
+    "next_start": "CryptoHelp",
     "pace_seconds": 150,
     "new_this_run": 0,
     "match_count": 16,
@@ -26,7 +26,7 @@
                 "comment_url": "https://www.reddit.com/r/CryptoHelp/comments/1xl0dta/how_to_restore_access_to_my_gate_account_if_i/19s7whuc6avl1/",
                 "thread_url": "https://www.reddit.com/r/CryptoHelp/comments/1xl0dta/",
                 "commented_at": "2026-11-06 08:43 UTC",
-                "age_hours": 276.3,
+                "age_hours": 277.3,
                 "activity_after": 1,
                 "thread_size": 4,
                 "checked_at": "2026-11-17 17:04 UTC"
@@ -37,7 +37,7 @@
                 "comment_url": "https://www.reddit.com/r/Bitcoin/comments/1xol876/bitcoin_recovery/19s7wbwmls3r8/",
                 "thread_url": "https://www.reddit.com/r/Bitcoin/comments/1xol876/",
                 "commented_at": "2026-11-06 08:39 UTC",
-                "age_hours": 276.3,
+                "age_hours": 277.3,
                 "activity_after": 0,
                 "thread_size": 7,
                 "checked_at": "2026-11-17 16:04 UTC"
@@ -48,7 +48,7 @@
                 "comment_url": "https://www.reddit.com/r/CryptoHelp/comments/1xhsg26/cant_access_zengo_did_i_lost_10k/19rtyhtu256td/",
                 "thread_url": "https://www.reddit.com/r/CryptoHelp/comments/1xhsg26/",
                 "commented_at": "2026-10-29 13:08 UTC",
-                "age_hours": 463.9,
+                "age_hours": 464.9,
                 "activity_after": 1,
                 "thread_size": 14,
                 "checked_at": "2026-11-17 17:02 UTC"
@@ -56,24 +56,24 @@
         ]
     },
     "source_status": {
-        "CryptoHelp": "overgeslagen: Reddit hield af (429) - 5.7u geleden",
-        "BitcoinBeginners": "niet opgehaald: HTTP 404 - 5.7u geleden",
-        "Bitcoin": "overgeslagen: Reddit hield af (429) - 4.9u geleden",
-        "btc": "niet opgehaald: HTTP 404 - 4.8u geleden",
-        "MetaMask": "overgeslagen: Reddit hield af (429) - 4.8u geleden",
-        "ledgerwallet": "niet opgehaald: HTTP 404 - 4.8u geleden",
-        "XRP": "overgeslagen: Reddit hield af (429) - 4.7u geleden",
-        "CryptoCurrencyClassic": "niet opgehaald: HTTP 404 - 4.7u geleden",
-        "CryptoCurrency": "overgeslagen: Reddit hield af (429) - 4.6u geleden",
-        "Monero": "niet opgehaald: HTTP 404 - 3.9u geleden",
-        "Electrum": "overgeslagen: Reddit hield af (429) - 3.8u geleden",
-        "Trezor": "niet opgehaald: HTTP 404 - 3.8u geleden",
-        "Tangem": "overgeslagen: Reddit hield af (429) - 3.8u geleden",
-        "solana": "niet opgehaald: HTTP 404 - 3.7u geleden",
-        "ethereum": "geen match binnen venster (13 verse posts bekeken) - 3.7u geleden",
-        "cro": "geen match binnen venster (4 verse posts bekeken) - 3.6u geleden",
-        "geldzaken": "overgeslagen: Reddit hield af (429) - 5.8u geleden",
-        "BitcoinDE": "niet opgehaald: HTTP 404 - 5.7u geleden",
+        "CryptoHelp": "overgeslagen: Reddit hield af (429) - 6.7u geleden",
+        "BitcoinBeginners": "niet opgehaald: HTTP 404 - 6.7u geleden",
+        "Bitcoin": "overgeslagen: Reddit hield af (429) - 5.9u geleden",
+        "btc": "niet opgehaald: HTTP 404 - 5.8u geleden",
+        "MetaMask": "overgeslagen: Reddit hield af (429) - 5.8u geleden",
+        "ledgerwallet": "niet opgehaald: HTTP 404 - 5.8u geleden",
+        "XRP": "overgeslagen: Reddit hield af (429) - 5.7u geleden",
+        "CryptoCurrencyClassic": "niet opgehaald: HTTP 404 - 5.7u geleden",
+        "CryptoCurrency": "overgeslagen: Reddit hield af (429) - 5.6u geleden",
+        "Monero": "niet opgehaald: HTTP 404 - 4.9u geleden",
+        "Electrum": "overgeslagen: Reddit hield af (429) - 4.8u geleden",
+        "Trezor": "niet opgehaald: HTTP 404 - 4.8u geleden",
+        "Tangem": "overgeslagen: Reddit hield af (429) - 4.8u geleden",
+        "solana": "niet opgehaald: HTTP 404 - 4.7u geleden",
+        "ethereum": "overgeslagen: Reddit hield af (429) - 4.7u geleden",
+        "cro": "niet opgehaald: HTTP 404 - 4.6u geleden",
+        "geldzaken": "overgeslagen: Reddit hield af (429) - 6.8u geleden",
+        "BitcoinDE": "niet opgehaald: HTTP 404 - 6.7u geleden",
         "bitcoin.stackexchange": "ok - 1 matches (2 verse posts bekeken) - -0.4u geleden"
     },
     "items": [
@@ -86,8 +86,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-16 19:58 UTC",
-            "age_hours": 25,
-            "age_days": 1
+            "age_hours": 26,
+            "age_days": 1.1
         },
         {
             "title": "Found wallet.dat files after trying to recover files on some old hdd (x-post from /r/Bitcoin)",
@@ -98,7 +98,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-16 17:13 UTC",
-            "age_hours": 27.8,
+            "age_hours": 28.8,
             "age_days": 1.2
         },
         {
@@ -110,7 +110,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-16 17:07 UTC",
-            "age_hours": 27.9,
+            "age_hours": 28.9,
             "age_days": 1.2
         },
         {
@@ -122,7 +122,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-11 16:16 UTC",
-            "age_hours": 148.7,
+            "age_hours": 149.7,
             "age_days": 6.2
         },
         {
@@ -134,7 +134,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-11 10:07 UTC",
-            "age_hours": 154.9,
+            "age_hours": 155.9,
             "age_days": 6.5
         },
         {
@@ -146,8 +146,8 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (compromised)",
             "last_activity": "2026-11-17 15:33 UTC",
-            "age_hours": 5.4,
-            "age_days": 0.2
+            "age_hours": 6.4,
+            "age_days": 0.3
         },
         {
             "title": "I feel safe now",
@@ -158,7 +158,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-16 19:36 UTC",
-            "age_hours": 25.4,
+            "age_hours": 26.4,
             "age_days": 1.1
         },
         {
@@ -170,7 +170,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-16 16:30 UTC",
-            "age_hours": 28.5,
+            "age_hours": 29.5,
             "age_days": 1.2
         },
         {
@@ -182,8 +182,8 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-15 15:25 UTC",
-            "age_hours": 53.6,
-            "age_days": 2.2
+            "age_hours": 54.6,
+            "age_days": 2.3
         },
         {
             "title": "New Tangem update allows for AI calls via MCP",
@@ -194,7 +194,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-15 14:43 UTC",
-            "age_hours": 54.3,
+            "age_hours": 55.3,
             "age_days": 2.3
         },
         {
@@ -206,7 +206,7 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (compromise)",
             "last_activity": "2026-11-15 08:51 UTC",
-            "age_hours": 60.1,
+            "age_hours": 61.1,
             "age_days": 2.5
         },
         {
@@ -218,7 +218,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-15 01:37 UTC",
-            "age_hours": 67.4,
+            "age_hours": 68.4,
             "age_days": 2.8
         },
         {
@@ -230,8 +230,8 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (fraud)",
             "last_activity": "2026-11-14 20:29 UTC",
-            "age_hours": 72.5,
-            "age_days": 3
+            "age_hours": 73.5,
+            "age_days": 3.1
         },
         {
             "title": "How do you claim a crypto airdrop safely with MetaMask and spot a fake one?",
@@ -242,7 +242,7 @@
             "scope": "theft",
             "scope_reason": "diefstal of scam genoemd (phishing)",
             "last_activity": "2026-11-12 16:17 UTC",
-            "age_hours": 124.7,
+            "age_hours": 125.7,
             "age_days": 5.2
         },
         {
@@ -254,7 +254,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-11 17:10 UTC",
-            "age_hours": 147.8,
+            "age_hours": 148.8,
             "age_days": 6.2
         },
         {
@@ -266,7 +266,7 @@
             "scope": "lost_access",
             "scope_reason": "",
             "last_activity": "2026-11-11 14:20 UTC",
-            "age_hours": 150.7,
+            "age_hours": 151.7,
             "age_days": 6.3
         }
     ]
